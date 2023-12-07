@@ -1,0 +1,3 @@
+/home/galax/Bureau/M1 Imagine/HAI719I_Programmation_3D/HAI719I_TP4/prog-3D-2023/template/build/CMakeFiles/tp.dir
+/home/galax/Bureau/M1 Imagine/HAI719I_Programmation_3D/HAI719I_TP4/prog-3D-2023/template/build/CMakeFiles/edit_cache.dir
+/home/galax/Bureau/M1 Imagine/HAI719I_Programmation_3D/HAI719I_TP4/prog-3D-2023/template/build/CMakeFiles/rebuild_cache.dir
