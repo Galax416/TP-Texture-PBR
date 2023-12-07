@@ -1,6 +1,6 @@
 # TP-Textures et PBR
 
-Pour executer lancer dans un terminal :
+Pour éxecuter, lancer dans un terminal :
 `
   ./run.sh ./data/WaterBottle.glb
 `
