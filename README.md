@@ -2,6 +2,10 @@
 
 Pour executer lancer :
 `
-  chmod 777 *.sh
   ./run.sh ./data/WaterBottle.glb
+`
+
+Si vous n'avez pas les droit faite :
+`
+  chmod 777 *.sh
 `
